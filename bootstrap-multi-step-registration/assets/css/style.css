@@ -219,7 +219,7 @@ form.registration-form fieldset {
 }
 
 
-/* Retina-ize images/icons */
+/* Retina-size images/icons */
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),

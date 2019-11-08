@@ -66,6 +66,19 @@ jQuery(document).ready(function() {
     	});
     	
     });
+    //Upload file
+    $('#BSbtndanger').filestyle({
+                buttonName : 'btn-danger',
+                buttonText : ' File selection'
+            });
+            $('#BSbtnsuccess').filestyle({
+                buttonName : 'btn-success',
+                buttonText : ' Open'
+            });
+            $('#BSbtninfo').filestyle({
+                buttonName : 'btn-info',
+                buttonText : ' Select a File'
+            });                        
     
     
 });
