@@ -9,3 +9,6 @@ The whole essence is to reduce monotony and increase user experience.
 - Bootstrap
 - Jquery
 - Html
+## Future Technologies
+- Databases (mongoDb)
+- NodeJs (Server)
